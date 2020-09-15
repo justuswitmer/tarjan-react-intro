@@ -9,7 +9,6 @@ class PictureGallery extends Component {
                 <img src="https://picsum.photos/id/1003/200/200" alt="" />
                 <img src="https://picsum.photos/id/238/200/200" alt="" />
                 <img src="https://picsum.photos/id/237/200/200" alt="" />
-
             </div>
         );
     }
